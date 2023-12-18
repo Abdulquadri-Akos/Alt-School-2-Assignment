@@ -138,6 +138,7 @@ h6 {
     }
 
     & select {
+      background: var(--color-white);
       appearance: none;
       -webkit-appearance: none;
       -moz-appearance: none;
